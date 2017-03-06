@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <strings>
-  <language name="Español (España)" base="Español" variant="España"/>
+  <language name="Español (Stalo)" base="Español" variant="Stalo"/>
   <string key="NotInGame">
-    <value>No parece que estés en una partida ahora mismo...</value>
+    <value>Parece que el Comite Central esta cerrado ahora mismo...</value>
   </string>
   <string key="PlayerStartedGame">
     <!-- 0 - Player name -->
-    <value>¡{0} ha empezado una partida! Usa /join para unirte a la diversión… ¡y probablemente morir!</value>
+    <value>¡{0} ha comenzado una sesion del CC! Usa /join para construir el socialismo… ¡y probablemente morir!</value>
     <value>¡{0} ha iniciado una nueva partida! ¡Usa /join para ser comido!</value>
   </string>
   <string key="PlayerStartedChaosGame">
